@@ -11,5 +11,12 @@ Does high expression of TP53 influence prognosis on breast cancer patients?
 ---
 - R
 - RStudio
-- Rpackages
+- Rpackages:
   - TCGA
+  - survminer
+  - survival
+  - tidyverse
+  - SummarizedExperiment
+- DESeq2
+
+
