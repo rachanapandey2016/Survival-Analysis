@@ -19,4 +19,12 @@ Does high expression of TP53 influence prognosis on breast cancer patients?
   - SummarizedExperiment
 - DESeq2
 
+**Workflow**  
+**0.Loading the required libraries**  
+```
+library(TCGAbiolinks)
+library(survminer)
+library(SummarizedExperiment)
+library(tidyverse)
+```
 
