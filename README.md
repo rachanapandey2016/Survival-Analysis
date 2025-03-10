@@ -28,6 +28,6 @@ library(survminer)
 library(SummarizedExperiment)
 library(tidyverse)
 ```
-You can explore more on TCGAbiolinks pacakage from bioconductor through this link `https://rdrr.io/bioc/TCGAbiolinks/`  
+You can explore more on TCGAbiolinks pacakage from bioconductor through this link https://rdrr.io/bioc/TCGAbiolinks/  
 
 ***Getting clinical data for TCGA BRCA cohort**  
